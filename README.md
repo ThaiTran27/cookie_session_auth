@@ -1,7 +1,7 @@
 # Demo cookie_session_auth
 ## Cài đặt
 1. cd cookie_session_auth
-2. npm start
+2. npm install
 3. node app.js
 ![alt](./cookie_session_auth/public/img/A1.png)
 ![alt](./cookie_session_auth/public/img/image.png)
