@@ -22,4 +22,4 @@
 11. users
 ![alt](./cookie_session_auth/public/img/image%20copy%202.png)
 12. sessions
-![alt](../cookie_session_auth/cookie_session_auth/public/img/image%20copy%203.png)
+![alt](./cookie_session_auth/public/img/image%20copy%203.png)
