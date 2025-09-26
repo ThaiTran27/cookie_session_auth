@@ -17,9 +17,9 @@
 8. GET: http://localhost:3000/auth/profile
 ![alt](./cookie_session_auth/public/img/image%20copy%206.png)
 ## Test với MONGODB
-6. Kết nối với localhost:27017
-7. Chọn sessionAuth
-8. users
+9. Kết nối với localhost:27017
+10. Chọn sessionAuth
+11. users
 ![alt](./cookie_session_auth/public/img/image%20copy%202.png)
-9. sessions
+12. sessions
 ![alt](../cookie_session_auth/cookie_session_auth/public/img/image%20copy%203.png)
